@@ -13,6 +13,12 @@ import gcp
 categories = ['Paintings', 'Photography', 'Drawings',
               'Sculpture', 'Digital', 'Prints']
 
+paintint_styles = ['Abstract', 'Fine Art', 'Modern', 'Abstract Expressionism',
+                   'Expressionism', 'Figurative', 'Impressionism', 'Realism',
+                   'Conceptual', 'Minimalism', 'Portraiture', 'Pop Art', 'Surrealism',
+                   'Illustration', 'Art Deco', 'Street Art', 'Photorealism', 'Folk',
+                   'Cubism', 'Documentary', 'Dada']
+
 category = categories[0]
 
 # Aparentemente, há 250 páginas para iterar
@@ -125,8 +131,10 @@ def get_artwork_info(url, bucket_name, gcs_file_name):
 
 
 def get_all_artworks_info(category):
-    links = get_artworks_links(category)
-    print('Artworks links collected: ', len(links))
+    for style in paintint_styles:
+        print(style)
+        links = get_artworks_links(category, style)
+        print('Artworks links collected: ', len(links))
     artworks_info = []
     for link in links:
         try:
