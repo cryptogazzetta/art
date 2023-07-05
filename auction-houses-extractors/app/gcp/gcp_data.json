@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "art-market-data",
+  "private_key_id": "b400503f70ee60085ca9fd2ee594f6f7588a0750",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBV7koVDl8mby2\nMsacg/MSKK2VJleKNkJ3yHK1Hw0fbolwBomCgnjZ4rCnuaigCrKVGkH+E/evpxgx\nC8oPmIZkLgUUHhBtNTWHQdYtEeqDKy/gRV1dkEib+YLQ4N1cmwRkJaodITcMZeOE\nBeHot210kBi2t0GQ8nfn+zBePurFAyFOOXk4RxgU+FnqZ5ctKs0bYN5NayrEhNYX\n8bW5rlRf4s4O8PrVC6+27N67YjiG9qCXrwtI2z7Gkn7onTKV8YyMylGYU08BXxEH\n4gNfmfmpWcZ7HQtYK8awylQZYApptBVXcP8RZZxo9rlPc/NKHyR4CYHApzF46Vsd\nSyilqJTzAgMBAAECggEAEX0F2ogDyyl80F43aODmk7XqPZuCP5Y43Ozcs1Vjsnwl\nImT0+0Eh/VNr9z/r6M4O6T2+ymSz+sd6gLU4ScDaJyWif/dYNQijFuD1po4AUG0P\nn5GmqFfsuW8QTiSI4V+EPirKAGiIui5dLgv6KzqsQ+bk1WIuJBZKkkk+TsgSJE/D\n5qHLfepMKScHNJG5cN5K5Dhxx/JVc7Q78MHLZokjoISdR7Fd5HSpdaEYXZuWQkd+\naabKbt094ZvrxKdwBOd+UEABBwhTk02aYtSl7zvTPxSG4hieOcYGnEB3nOShgmtq\n6UcjYpXfVHqf9bLRxSUelLNS31qqU5wZHNNbYGAGgQKBgQDly83t23D2g93/yInb\nlME/Zbsgwe7AexHa4WL90eTWp3dBrqEyy3PR37xaNy9/dyouCJhQYSb1UY7j8/uh\n/hEkIx12l632nEjLtqXUYYquKahWyS+VtLGI5uoImQNMLabKrghg0hoiDvrqQWvX\ndpWCmrGhj4/Zzs1pqDX6pTKOewKBgQDXY8WfabbyxzSX0VRRa9tmN2dLhRb06KRm\ncQqQ2h4KQkF+t25Jr6iKIr021vFCp4+dAN9G7OaFnr09psKHbF4F9luc258DmIMy\nTBg4f4nVODBQqU/oO/7jhSpn8dd1CLVPS7IA+tXurSjf+CV/U2mv818mNVff25So\nLQeygS2F6QKBgD//fp6b2t4M46r04s/wodFSN8dru16H5/UZiERATIcrpJ76T5Kh\n7uOoeAB4FhZdzbV8V08rf3oa+Lyrmo0HAScbUH1SyPRBmlSBzbVUZRcUKvnglgwP\ngtIp3Uv/sVdp72XLCjJM0VJi8aaECdC8Ce+RvZ7NKLb0TWj7m+zuTSI5AoGAHXQ1\nWCFatURser5Ta3b2X7n/1CH1C7Sslp2qtjg9l2WME0n+OPFeeNVbTp6CC31idDPk\nVIyc0XTtp/qf62j0Sphv2rllu1YlysEBJui57oBqiv08QiPCLVbOf7xgnE5+jMNr\nKhsjGipvxoDmj8zWTQtY3Z65z5D1eTH/NXfYw9ECgYEAlP0hmgtmmE3z/R6k84h3\n9UnZzwXch3AW0DSK/XalZPVJM0WGZKIAqQXyAo8tzUNze3/8C1sB4gYhyEwhTHjC\nPLDzS+rrqCPGh8AZkL5Lo+jX2atKWidWARmoX4r4x8VfTQDg12zR3d+lpgjC9Jkq\n8+IU4YcXSc9YugFeFGBy4e8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-storage-sa@art-market-data.iam.gserviceaccount.com",
+  "client_id": "112087538779122419689",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-storage-sa%40art-market-data.iam.gserviceaccount.com"
+}

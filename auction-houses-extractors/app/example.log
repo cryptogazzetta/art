@@ -1,0 +1,1350 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artworks?cursor=4eb1c7c5b4da19000100c841%3A4eb1c7c5b4da19000100c841 HTTP/1.1" 200 None
+INFO:root:API request ok
+INFO:root:id: 4eb1c899c8004a000100deb3
+INFO:root:id: 4eb2ddfe48eeb80001007e39
+INFO:root:id: 4eb2dee448eeb8000100818c
+INFO:root:id: 4eb2df85e742d70001006d15
+INFO:root:id: 4eb2e100e9bbd90001006bf7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artworks?cursor=4eb2e100e9bbd90001006bf7%3A4eb2e100e9bbd90001006bf7 HTTP/1.1" 200 None
+INFO:root:id: 4eb2e2b2e9bbd90001007077
+INFO:root:id: 4eb2e32f6e2a5c00010083a5
+INFO:root:id: 4eb2e4bedf024e0001007388
+INFO:root:id: 4eb2e58d48eeb8000100910d
+INFO:root:id: 4eb2e60be742d700010078e4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artworks?cursor=4eb2e60be742d700010078e4%3A4eb2e60be742d700010078e4 HTTP/1.1" 200 None
+INFO:root:id: 4eb2e9396e2a5c0001008c3d
+INFO:root:id: 4eb2eb13e742d70001007baf
+INFO:root:id: 4eb2f2336e2a5c000100a31c
+INFO:root:id: 4eb2f3dce9bbd90001009b2a
+INFO:root:id: 4eb2f508364b4c0001009e9c
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artworks?cursor=4eb2f508364b4c0001009e9c%3A4eb2f508364b4c0001009e9c HTTP/1.1" 200 None
+INFO:root:id: 4eb2f61be742d7000100b5b4
+INFO:root:id: 4eb2f76e6e2a5c000100b93f
+INFO:root:id: 4eb2faec6e2a5c000100ca3c
+INFO:root:id: 4eb2fc2d6e2a5c000100d12d
+INFO:root:id: 4eb2ff37e9bbd9000100dd34
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artworks?cursor=4eb2ff37e9bbd9000100dd34%3A4eb2ff37e9bbd9000100dd34 HTTP/1.1" 200 None
+INFO:root:id: 4eb301c5df024e000100d4f4
+INFO:root:id: 4eb302ade9bbd9000100e706
+INFO:root:id: 4eb306b45341eb00010004ce
+INFO:root:id: 4eb30795248a2600010002de
+INFO:root:id: 4eb309706e2a5c000100f080
+INFO:root:Database is empty
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists HTTP/1.1" 200 None
+INFO:root:API request ok
+INFO:root:id: 5723c839139b2113a8000619
+INFO:root:id: 5723c909cd530e192700078c
+INFO:root:id: 5f3c6a447b13bc00131ed83c
+INFO:root:id: 63f2ed45151b92187049d5bf
+INFO:root:id: 5f7e5561b6dbb4000d6316bc
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=00100011-hashtag%3A5f7e5561b6dbb4000d6316bc HTTP/1.1" 200 None
+INFO:root:id: 632480b9d47377000c2df5fe
+INFO:root:id: 57c80944b202a36609000082
+INFO:root:id: 57c80d15a09a6753d4000a13
+INFO:root:id: 52c721e5b202a3edf1000072
+INFO:root:id: 5cdae4d455d8c8318b939791
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=06d-atelier%3A5cdae4d455d8c8318b939791 HTTP/1.1" 200 None
+INFO:root:id: 5e790eb3d32120000e4fd873
+INFO:root:id: 62f9da0cca3d44000d99f02b
+INFO:root:id: 6323838a6a5f17000cf70d25
+INFO:root:id: 5d6f9f7e3a583e000e51956d
+INFO:root:id: 5f6b4ffb0029d4000ed1b819
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=1-sheet-uk%3A5f6b4ffb0029d4000ed1b819 HTTP/1.1" 200 None
+INFO:root:id: 60eb0e7244c6d50012fc38bd
+INFO:root:id: 5568f47672616954f4980000
+INFO:root:id: 5dae5b0ddc9455000e6042d5
+INFO:root:id: 55e1b6717261693b9e000784
+INFO:root:id: 5cc9c1f473cb733537605ca5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=11-pittori-italiani-doggi%3A5cc9c1f473cb733537605ca5 HTTP/1.1" 200 None
+INFO:root:id: 5cb8e61ccd72140012713a11
+INFO:root:id: 5e7b6e7af3d12d000e10143d
+INFO:root:id: 5e3c385baedfc1000de6dade
+INFO:root:id: 60f9b069973429000d3d085f
+INFO:root:id: 5e749c7a10287400124ec2d7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=11-pittori-italiani-doggi%3A5cc9c1f473cb733537605ca5 HTTP/1.1" 200 None
+INFO:root:API request ok
+INFO:root:id: 5cb8e61ccd72140012713a11
+INFO:root:id: 5e7b6e7af3d12d000e10143d
+INFO:root:id: 5e3c385baedfc1000de6dade
+INFO:root:id: 60f9b069973429000d3d085f
+INFO:root:id: 5e749c7a10287400124ec2d7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=12345678910-studio%3A5e749c7a10287400124ec2d7 HTTP/1.1" 200 None
+INFO:root:id: 5cc9c2c62999cb75f7a34624
+INFO:root:id: 628cd75168d423000ec80ab1
+INFO:root:id: 56421d54258faf667f0001be
+INFO:root:id: 5ee892e2ef3ca000126d31ae
+INFO:root:id: 5ba208f138a08a0026babf19
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=14th-century-khmer%3A5ba208f138a08a0026babf19 HTTP/1.1" 200 None
+INFO:root:id: 5fbfd2def7357c001199b5b5
+INFO:root:id: 5bada5edbc070e5bc9276c55
+INFO:root:id: 63ed060f8c4fbc000dda8428
+INFO:root:id: 61657e841f84ac000d5816aa
+INFO:root:id: 5f68affd243871000ea3f9cd
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=16th-century-german-artist-anonymous%3A5f68affd243871000ea3f9cd HTTP/1.1" 200 None
+INFO:root:id: 5edb54a3df5a94000e60b520
+INFO:root:id: 59825840a09a6721bf9f472b
+INFO:root:id: 589a0bcb8b3b81125d2f3a8f
+INFO:root:id: 5ff5f2b1bc73e847e5946f77
+INFO:root:id: 5ed7c3ace0875b001245f901
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=18th-century-barbados%3A5ed7c3ace0875b001245f901 HTTP/1.1" 200 None
+INFO:root:id: 5ede1d62ac9771000e3eb003
+INFO:root:id: 5ede15221c9ea600122fb5ca
+INFO:root:id: 5ff5e5e59109c0000daa04e9
+INFO:root:id: 63702020331f8a000d966bd1
+INFO:root:id: 5e30a01856c6af000f746a7d
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=1918%3A5e30a01856c6af000f746a7d HTTP/1.1" 200 None
+INFO:root:id: 60ff21f625d41a000cec592f
+INFO:root:id: 5ff5f1feb15dad000e44f391
+INFO:root:id: 5ede21eb4bbd2a00110f1c1e
+INFO:root:id: 5ede528cac9771000e3ebde0
+INFO:root:id: 5ff605e76e1c030012f96878
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=19th-century-japanese-artist%3A5ff605e76e1c030012f96878 HTTP/1.1" 200 None
+INFO:root:id: 5bd8763d450a934ab9435c16
+INFO:root:id: 5ff5eb5067c14b0012d9b704
+INFO:root:id: 63701fdeb7ca68000d03ec4e
+INFO:root:id: 5cb8e4a28e5dda000e644a21
+INFO:root:id: 60baba7557c7ad000e026244
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=1penemy%3A60baba7557c7ad000e026244 HTTP/1.1" 200 None
+INFO:root:id: 5aa691ad275b2409116ce9f1
+INFO:root:id: 5d7fa474114ad0001283f8f7
+INFO:root:id: 62e9348bd721c6000b00a90d
+INFO:root:id: 60fdaa30bbe27f000fdc1bec
+INFO:root:id: 60fdaae5e425c9000de344e2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=2-bordalo%3A60fdaae5e425c9000de344e2 HTTP/1.1" 200 None
+INFO:root:id: 5f176377fb19ce0012e80b6c
+INFO:root:id: 5a8dfae8275b2418f5ec6b80
+INFO:root:id: 56ba025bb8bad46703000010
+INFO:root:id: 5a855f47139b215ecce101b1
+INFO:root:id: 5f379d18b9ea0a00126cab42
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=20-dot-pallette%3A5f379d18b9ea0a00126cab42 HTTP/1.1" 200 None
+INFO:root:id: 5e60c4ab07ac71001293e515
+INFO:root:id: 542dd56e7261692d39210400
+INFO:root:id: 542dd56e7261692d37b10400
+INFO:root:id: 542dd56e72616925d12d1400
+INFO:root:id: 532a8c57275b24241800007e
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=2014-dhabi%3A532a8c57275b24241800007e HTTP/1.1" 200 None
+INFO:root:id: 542dd56f7261692d3a020500
+INFO:root:id: 542dd56e7261692f56d31300
+INFO:root:id: 542dd56e7261692cb6de0400
+INFO:root:id: 542dd56e7261695769c51300
+INFO:root:id: 5773b3598b3b813d43000ab4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=2016-fresh%3A5773b3598b3b813d43000ab4 HTTP/1.1" 200 None
+INFO:root:id: 5b6ad5b55e46ee2816933d01
+INFO:root:id: 5b6addd6b73d48002391f469
+INFO:root:id: 603173f3d446010012cc8d23
+INFO:root:id: 5e13a1ce07a2ac00122ff0df
+INFO:root:id: 5b3276fb7622dd4543f57111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=20th-century-school%3A5b3276fb7622dd4543f57111 HTTP/1.1" 200 None
+INFO:root:id: 601b13bed2effb000ff36e74
+INFO:root:id: 545203bc72616934b4dd0200
+INFO:root:id: 59bbfc6d9c18db2928df9762
+INFO:root:id: 57cf388bb202a365ff000aa7
+INFO:root:id: 5f3425c8e90b60000eb0b338
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=275c%3A5f3425c8e90b60000eb0b338 HTTP/1.1" 200 None
+INFO:root:id: 599747caa09a6717dab79f07
+INFO:root:id: 5fa40b16b706fd00129c0a7f
+INFO:root:id: 59cc005e139b212afcc2a7e7
+INFO:root:id: 607f97e1b4df5c00123403d7
+INFO:root:id: 637433ec8d4f21000d917499
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=2c-b%3A637433ec8d4f21000d917499 HTTP/1.1" 200 None
+INFO:root:id: 5f3cd04f7b13bc00131eed2c
+INFO:root:id: 5474f39d72616948dd1b0900
+INFO:root:id: 60e490eff94cad000f333a0b
+INFO:root:id: 5b0b2fe68b3b815d2b27889c
+INFO:root:id: 601d1ad5fafe4554814a8028
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=2monos%3A601d1ad5fafe4554814a8028 HTTP/1.1" 200 None
+INFO:root:id: 6221b9f0f8f6fc000cdc0bf9
+INFO:root:id: 5b7c7989822bb45dcd0e5f0a
+INFO:root:id: 5a8f2f672a893a30ad3d08cf
+INFO:root:id: 5f1be4ec9d0b5e0011ad67c2
+INFO:root:id: 57f2d001a09a67313d0001c0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=2wenty%3A57f2d001a09a67313d0001c0 HTTP/1.1" 200 None
+INFO:root:id: 62e04cbeb36211000d0f1dc0
+INFO:root:id: 513112c45fd67479a6000277
+INFO:root:id: 5a6bca14139b21050c7df655
+INFO:root:id: 539b17e3275b24ff30000806
+INFO:root:id: 56dec036275b245c250009de
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=3-search%3A56dec036275b245c250009de HTTP/1.1" 200 None
+INFO:root:id: 5149d26d43ec4b57a90002af
+INFO:root:id: 54106e9e7261693fad5c0000
+INFO:root:id: 5ccd7e3e43627c3a31c9dfe0
+INFO:root:id: 5dad168cc6b7b5000ddef355
+INFO:root:id: 54dd187e726169094bbb0600
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=360volt%3A54dd187e726169094bbb0600 HTTP/1.1" 200 None
+INFO:root:id: 62b3dcdfac8a01000cae6375
+INFO:root:id: 6337613035d007000dd6b035
+INFO:root:id: 6380a13044fcab000b9c4454
+INFO:root:id: 560bf93d7261697b0d0005c5
+INFO:root:id: 5d1ca92e70d5742641c7a31a
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=3d-retro%3A5d1ca92e70d5742641c7a31a HTTP/1.1" 200 None
+INFO:root:id: 6179befeb9430e000caf34bc
+INFO:root:id: 571f6cd2b202a365a6001571
+INFO:root:id: 5ae3135d8b3b811da8bb89a1
+INFO:root:id: 5d40c1d657c260000e29d4b1
+INFO:root:id: 5aaa86ea9c18db520ca0f69c
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=3steps%3A5aaa86ea9c18db520ca0f69c HTTP/1.1" 200 None
+INFO:root:id: 54ef8aef7261694c895b0300
+INFO:root:id: 5d53c5a9e4bb90000da2e81c
+INFO:root:id: 596359c6139b217d55ce6c43
+INFO:root:id: 5799d2452a893a1102000536
+INFO:root:id: 5e690d38714428000eb5afd8
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=459-premo%3A5e690d38714428000eb5afd8 HTTP/1.1" 200 None
+INFO:root:id: 60fa597714fb00000f90a8fe
+INFO:root:id: 60d6a9fcf019450012aed59d
+INFO:root:id: 57c9a36f275b24115c000a88
+INFO:root:id: 617810cff9f4cf000b3d3fde
+INFO:root:id: 63a97401dce7ec000b89cd1a
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=5el%3A63a97401dce7ec000b89cd1a HTTP/1.1" 200 None
+INFO:root:id: 60fda28b525e43000ffd2fa2
+INFO:root:id: 60afae3fb30d38000efe95cd
+INFO:root:id: 5e986e967060e20012e3e626
+INFO:root:id: 543cdc35726169321b990100
+INFO:root:id: 5762b4be7622dd65e7001804
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=69%3A5762b4be7622dd65e7001804 HTTP/1.1" 200 None
+INFO:root:id: 63c6fcc652fc06000e324d38
+INFO:root:id: 6288a62ff023fa000d55b4a4
+INFO:root:id: 551d49867261692ad3154400
+INFO:root:id: 572a7a43cb4c2753650006b1
+INFO:root:id: 5b31d4679c18db48f8c868eb
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=711%3A5b31d4679c18db48f8c868eb HTTP/1.1" 200 None
+INFO:root:id: 5db2e08af708b2000e738028
+INFO:root:id: 6014bbe33dbf4700129366f3
+INFO:root:id: 63c6e7e495328b000cbebf7a
+INFO:root:id: 63b07811a96bac000b290abd
+INFO:root:id: 6089a81154d2230012e32b71
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=7eight%3A6089a81154d2230012e32b71 HTTP/1.1" 200 None
+INFO:root:id: 60ac279a4f60b8000e83a4c6
+INFO:root:id: 53d9f8ac726169083c8c0500
+INFO:root:id: 53d9f8ab72616932bf900500
+INFO:root:id: 53d9f8ab72616932c3b60500
+INFO:root:id: 53d9f8ab7261692fb9e30500
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=8-monk%3A53d9f8ab7261692fb9e30500 HTTP/1.1" 200 None
+INFO:root:id: 53d9f8ab72616974d8f80500
+INFO:root:id: 5aa21ff8139b2163b71ce5c5
+INFO:root:id: 53d9f8ac7261690aabf70500
+INFO:root:id: 53d9f8ab72616959184e0600
+INFO:root:id: 55d61ac87261697730000377
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=80e8%3A55d61ac87261697730000377 HTTP/1.1" 200 None
+INFO:root:id: 5c4775125ef021002864c827
+INFO:root:id: 63345d4e1dde90000c50c940
+INFO:root:id: 5ddffc611746b800121910bb
+INFO:root:id: 5c019a9edbeeb9002cbfbf84
+INFO:root:id: 553a9c127261692169eb0000
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=92-rigo%3A553a9c127261692169eb0000 HTTP/1.1" 200 None
+INFO:root:id: 5841b3217622dd4988000223
+INFO:root:id: 540a0d02726169771e530100
+INFO:root:id: 5af38917139b21271b1317ec
+INFO:root:id: 6152f530f966ea000ce4d8e6
+INFO:root:id: 59c164cd8b3b816480e9eb7f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-a-maria%3A59c164cd8b3b816480e9eb7f HTTP/1.1" 200 None
+INFO:root:id: 56856d45275b2412b5000159
+INFO:root:id: 5bd9abac7373f9002be2bb12
+INFO:root:id: 603d136585ddd25e132c7fcd
+INFO:root:id: 5e95bb8d6bbbaa00120f05aa
+INFO:root:id: 5eceaf5099e08a000ed28e8f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-a-maria%3A59c164cd8b3b816480e9eb7f HTTP/1.1" 200 None
+INFO:root:API request ok
+INFO:root:id: 56856d45275b2412b5000159
+INFO:root:id: 5bd9abac7373f9002be2bb12
+INFO:root:id: 603d136585ddd25e132c7fcd
+INFO:root:id: 5e95bb8d6bbbaa00120f05aa
+INFO:root:id: 5eceaf5099e08a000ed28e8f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-almelkar-a%3A5eceaf5099e08a000ed28e8f HTTP/1.1" 200 None
+INFO:root:id: 551ac4b17261692ae9d30300
+INFO:root:id: 54ef61f87261692b14040700
+INFO:root:id: 5f20579295d9220012c1ed9f
+INFO:root:id: 5f0196784e50b0000de37063
+INFO:root:id: 5efba748c25592001294677b
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-b-clegg-ruth%3A5efba748c25592001294677b HTTP/1.1" 200 None
+INFO:root:id: 545021df7261692d50b50200
+INFO:root:id: 5e9654f7a7ef0200124852db
+INFO:root:id: 5c5b4fd39ed13c272fd03e44
+INFO:root:id: 5ee23ef3c5b118000df762df
+INFO:root:id: 618be7381cca90000c806c47
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-becerra-carlos%3A618be7381cca90000c806c47 HTTP/1.1" 200 None
+INFO:root:id: 5ccc120243627c36f8fa4f94
+INFO:root:id: 5efb42dec90c92000e4fc030
+INFO:root:id: 5ec3b49fc9d79c001261c618
+INFO:root:id: 56df2bba9c18db3e520010c4
+INFO:root:id: 57a035b2f46c4c65fe0007ba
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-bitanga-cherie%3A57a035b2f46c4c65fe0007ba HTTP/1.1" 200 None
+INFO:root:id: 5e3327a2ef948b0012e8fea1
+INFO:root:id: 5b2c201ba09a6762b4c6e46f
+INFO:root:id: 616be308ba6c3f000caa0c12
+INFO:root:id: 5f86fc0d4597da000e810bae
+INFO:root:id: 55421e9b7261691a95af1800
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-calero-j%3A55421e9b7261691a95af1800 HTTP/1.1" 200 None
+INFO:root:id: 5c6722a74be2351174e279af
+INFO:root:id: 61f1aa97cf0af5000db06b52
+INFO:root:id: 62b5c0d6bea466000be5810e
+INFO:root:id: 56fd6be87622dd095c0006be
+INFO:root:id: 6071300feaf4e5000ec617b6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-constructed-world%3A6071300feaf4e5000ec617b6 HTTP/1.1" 200 None
+INFO:root:id: 5dc493e055fe95000d432f97
+INFO:root:id: 62b31578bef71b000caf933e
+INFO:root:id: 5c9d314c26ebfd5f89067ef4
+INFO:root:id: 642321e6720f6c000e775436
+INFO:root:id: 5f0431a533e87f0014f7fcc2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-cupial-lea%3A5f0431a533e87f0014f7fcc2 HTTP/1.1" 200 None
+INFO:root:id: 6248e93073055d000cd1d161
+INFO:root:id: 607e9e43c70c9400134d2b31
+INFO:root:id: 5eb74b3a968edf000e2e41b3
+INFO:root:id: 5f2c01ecaf1c6a000ed49857
+INFO:root:id: 5a5d0c187622dd4fc05fac11
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-dot-ve-dot-m%3A5a5d0c187622dd4fc05fac11 HTTP/1.1" 200 None
+INFO:root:id: 5f3b486a28ca9c00118e1e8f
+INFO:root:id: 61e543b7386822000b354474
+INFO:root:id: 5de0f3242545cd000e745f7b
+INFO:root:id: 58406d83a09a6709e0000085
+INFO:root:id: 5ddc481e7e505c000dbfcb8f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-ga3mez-bruce%3A5ddc481e7e505c000dbfcb8f HTTP/1.1" 200 None
+INFO:root:id: 61992c0ecd2135000b0261b3
+INFO:root:id: 5ea6d93edeb678001253b5df
+INFO:root:id: 5b22e778a6ca6d53b1622a3d
+INFO:root:id: 5f3e0237047fac000ef3c2ad
+INFO:root:id: 63525f6550369b000c6cbd9a
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-gordon-tyler%3A63525f6550369b000c6cbd9a HTTP/1.1" 200 None
+INFO:root:id: 5fa5a1a76a3c1e0012e5d634
+INFO:root:id: 5ed79439bc4aaa001286a56c
+INFO:root:id: 5b2147d12a893a6c93aecc7d
+INFO:root:id: 5de91a19a665fc000db7fbbe
+INFO:root:id: 615ba9372bbfa6000cd254a3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-h%3A615ba9372bbfa6000cd254a3 HTTP/1.1" 200 None
+INFO:root:id: 573a130bcb4c274cf8000391
+INFO:root:id: 5bb238d487dc9226b2b10934
+INFO:root:id: 5625cd5372616912ce00015c
+INFO:root:id: 5cddd7a4601fde41e30514f7
+INFO:root:id: 5d8a5460fdf95f000e2bac7a
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-harlseton-edwin%3A5d8a5460fdf95f000e2bac7a HTTP/1.1" 200 None
+INFO:root:id: 5c936f3eed382603734d9cfe
+INFO:root:id: 5fdb022750c738000eaded01
+INFO:root:id: 62b4908f49fd52000cafa94a
+INFO:root:id: 54b3db747261696a94650000
+INFO:root:id: 63f3a170573602000b995c42
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-jackson-christopher%3A63f3a170573602000b995c42 HTTP/1.1" 200 None
+INFO:root:id: 5bcdfc63420ee4526bfa821f
+INFO:root:id: 5dd3ffdd96b00e000e04cfbd
+INFO:root:id: 5d41e37f8310d90011210704
+INFO:root:id: 5ed8cb1bf9c00700121bfaeb
+INFO:root:id: 506b33124466170002000245
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-kassen%3A506b33124466170002000245 HTTP/1.1" 200 None
+INFO:root:id: 5b48c450c4c71414ff0c0287
+INFO:root:id: 628fc8dd4bcfdf000f9e7d65
+INFO:root:id: 58f9d1dd8b0c1424d212f8e9
+INFO:root:id: 5bdca3c55ce68308103cf7f7
+INFO:root:id: 6285507cf05b24000e3ace51
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-lawson-piers%3A6285507cf05b24000e3ace51 HTTP/1.1" 200 None
+INFO:root:id: 5f87f5ebc2cca27c4afdb5cf
+INFO:root:id: 5a3acb599c18db371ce4908e
+INFO:root:id: 5d422bdd0eb52c000ef31937
+INFO:root:id: 60a2afe7b539a1000f465508
+INFO:root:id: 615bae5f4b7751000bad5d0f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-m%3A615bae5f4b7751000bad5d0f HTTP/1.1" 200 None
+INFO:root:id: 5e302bbc6d589600116053f4
+INFO:root:id: 6077ece5d27cd2001363649f
+INFO:root:id: 603d3c271e6fcc000d523a56
+INFO:root:id: 5dea4787c48aab0011ecc6d1
+INFO:root:id: 5b22e93a66fd1c32e4762f66
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-mappin-and-webb%3A5b22e93a66fd1c32e4762f66 HTTP/1.1" 200 None
+INFO:root:id: 59a8646f2a893a3277e14a71
+INFO:root:id: 541432917261692d6b540000
+INFO:root:id: 554b94ab72616952492f0000
+INFO:root:id: 609004a88bd878000e2b5e4f
+INFO:root:id: 5bf58d3962545c4098f7fe87
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-medina-pablo%3A5bf58d3962545c4098f7fe87 HTTP/1.1" 200 None
+INFO:root:id: 5cfd19eddf3922001255cec2
+INFO:root:id: 5cfd3a79ed3fb1000d6cd2ee
+INFO:root:id: 60a26bc49cde79000e408af4
+INFO:root:id: 5db8603dbb4524000d3fc1ee
+INFO:root:id: 5b2a059da6ca6d138c00895b
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-millefleurs-tapestry-with-the-coat-of-arms-and-initials-of-christine-de-lechy%3A5b2a059da6ca6d138c00895b HTTP/1.1" 200 None
+INFO:root:id: 5ef0d2109211ca000ef76dcf
+INFO:root:id: 607df0a311d84d001226a16c
+INFO:root:id: 57dc5db38b3b81150c0001ef
+INFO:root:id: 612cb458c161c6000c89279b
+INFO:root:id: 5dadff53faed07000e3c7bf3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-night-in-boston%3A5dadff53faed07000e3c7bf3 HTTP/1.1" 200 None
+INFO:root:id: 58f7dd1f275b2403cd505339
+INFO:root:id: 5b9959cff3706e2eaf5f0164
+INFO:root:id: 57634c099c18db48ba000959
+INFO:root:id: 570707b48b3b810132000a8c
+INFO:root:id: 615ee3a7351c14000bc5586b
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-pearce-mark%3A615ee3a7351c14000bc5586b HTTP/1.1" 200 None
+INFO:root:id: 53b305a77261693c37fa0800
+INFO:root:id: 5346aab9cd530ebc5700000a
+INFO:root:id: 5d8a556b042e02000e5b425c
+INFO:root:id: 5ac306ef7622dd4790fb1dc5
+INFO:root:id: 53064ef67622ddb637000221
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-przhetslavsky-and-a-mashistov%3A53064ef67622ddb637000221 HTTP/1.1" 200 None
+INFO:root:id: 5ece92b2835ab00011f10c68
+INFO:root:id: 548975db7261692bbaaf0400
+INFO:root:id: 554be85c7261691c57070100
+INFO:root:id: 5aa27acd2a893a7689e30b4d
+INFO:root:id: 55c8f3c672616911180007d9
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-robinson-mario%3A55c8f3c672616911180007d9 HTTP/1.1" 200 None
+INFO:root:id: 55c8f08c7261692590000768
+INFO:root:id: 6158c361e2d28b000ca16146
+INFO:root:id: 5af20d422a893a57c0fb46ac
+INFO:root:id: 5f2bd09f007d73000e5f54a6
+INFO:root:id: 57fd0003139b2136200009f8
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-seguy-e%3A57fd0003139b2136200009f8 HTTP/1.1" 200 None
+INFO:root:id: 634073313b47a6000e4d5bc9
+INFO:root:id: 603d438d446b6f0011ab9f27
+INFO:root:id: 5bfd55af49110041cd1646de
+INFO:root:id: 60aecdcda0d1220013722270
+INFO:root:id: 5d9770684a2bab000ef8e70f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-snowflake-bentley-wilson%3A5d9770684a2bab000ef8e70f HTTP/1.1" 200 None
+INFO:root:id: 5b0576c1c9dc2455f86dccd1
+INFO:root:id: 59fe4205cd530e4d8456b5d4
+INFO:root:id: 5ef5d7295c93fc0012b05386
+INFO:root:id: 61859cac6f814e000c3d431f
+INFO:root:id: 5bc3f1bbf9d36b1ed0bf4e7a
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-tonello-and-a-montagna-grillo%3A5bc3f1bbf9d36b1ed0bf4e7a HTTP/1.1" 200 None
+INFO:root:id: 5d1ca51afd04bd5f80e9e269
+INFO:root:id: 62af30ff52e690000eda05e7
+INFO:root:id: 50d613f7038e2ce346000097
+INFO:root:id: 5e50243a995b1a001292f91d
+INFO:root:id: 6191fae9b4f83c000c90062b
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-vimalanathan-s%3A6191fae9b4f83c000c90062b HTTP/1.1" 200 None
+INFO:root:id: 63a4dc7d4a9c24000d6ae00b
+INFO:root:id: 61706cd4741e6e000ce47ca2
+INFO:root:id: 5ef0c0e5a5f34e0012e65b7f
+INFO:root:id: 4f0648318501fa10ca000001
+INFO:root:id: 563c23147261693ed900068b
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-westerhuis-ronald%3A563c23147261693ed900068b HTTP/1.1" 200 None
+INFO:root:id: 57fe8c4d139b215165000ac1
+INFO:root:id: 5faabae5e9e44e00114d9bd1
+INFO:root:id: 5b2d24f466fd1c16b9721376
+INFO:root:id: 56a80c93258faf6e04000038
+INFO:root:id: 62e2ed2ac7ba45000cb5a7e0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a-z-i-z-a%3A62e2ed2ac7ba45000cb5a7e0 HTTP/1.1" 200 None
+INFO:root:id: 5d29a57e462021000d6495a6
+INFO:root:id: 61fc21d39289c1000daa87c1
+INFO:root:id: 5e2eed1bcb8e80000ea1b800
+INFO:root:id: 61e1953cde2928000b955f01
+INFO:root:id: 5feb700f2595053a934953b3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=a23-nectar%3A5feb700f2595053a934953b3 HTTP/1.1" 200 None
+INFO:root:id: 5b92bb5f2835b44963177930
+INFO:root:id: 56e6f677cb4c27657b0004a5
+INFO:root:id: 516fe67aa6a9ef32df000021
+INFO:root:id: 5ddfd3b3893c59000eaad901
+INFO:root:id: 63451a568233f1000d718c5d
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aaaaaaaa%3A63451a568233f1000d718c5d HTTP/1.1" 200 None
+INFO:root:id: 525cba6f275b249fea000168
+INFO:root:id: 5f6232f0dd216d000ec83363
+INFO:root:id: 61df4c491bccfc000d0a1908
+INFO:root:id: 59af055b9c18db0cc150ed29
+INFO:root:id: 59b6b81b9c18db4d6f3bbd77
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aadams-charles%3A59b6b81b9c18db4d6f3bbd77 HTTP/1.1" 200 None
+INFO:root:id: 5d6e344498cff6001236c7e5
+INFO:root:id: 5d6f91cd8f59b2001227f4e6
+INFO:root:id: 5d6f9b41ab5702000e3b70a5
+INFO:root:id: 5b7f3431f347450c5e0b33ff
+INFO:root:id: 62a0b72f075a5c000e6a2764
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aagaard-haansen-martin%3A62a0b72f075a5c000e6a2764 HTTP/1.1" 200 None
+INFO:root:id: 556ec23e7261697cfcc00600
+INFO:root:id: 5e1602552f18c20941580d1e
+INFO:root:id: 53d2a3c37261692d4b1c0200
+INFO:root:id: 59e508c7c9dc244299e4661d
+INFO:root:id: 59b19ee9139b2146730c7ccc
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aage-larsen-svend%3A59b19ee9139b2146730c7ccc HTTP/1.1" 200 None
+INFO:root:id: 5c74608975edb25e4788a40f
+INFO:root:id: 595cfc497622dd38b44ddd93
+INFO:root:id: 5c48e544eff2c14c4b3c3ec9
+INFO:root:id: 551ad0967261692ae6250200
+INFO:root:id: 5638282b72616907a90008b9
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aalk-patrick%3A5638282b72616907a90008b9 HTTP/1.1" 200 None
+INFO:root:id: 63ee205ccfe1cf000ec7825c
+INFO:root:id: 5bb60de392f1ae02be2addcc
+INFO:root:id: 505fa4d3e22288000200007d
+INFO:root:id: 5b8fd6888fa20f0027c03c6a
+INFO:root:id: 5b7578e43eb4db76135489ad
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aalto-plus-aalto%3A5b7578e43eb4db76135489ad HTTP/1.1" 200 None
+INFO:root:id: 54de58ff7261697525b60100
+INFO:root:id: 58e913c1139b21235ae00199
+INFO:root:id: 5ccb44c30b58005e236cff51
+INFO:root:id: 60487ec18004f6000d163044
+INFO:root:id: 592ecf5da09a67285ccf81a3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aam-assunta%3A592ecf5da09a67285ccf81a3 HTTP/1.1" 200 None
+INFO:root:id: 58dec23c8b0c144c0ab45f81
+INFO:root:id: 5ff45123dd784c5b792d5984
+INFO:root:id: 54d3d884726169470b350300
+INFO:root:id: 5cfdd7b1d9897100123161ec
+INFO:root:id: 6177fc6600138b000b389d6f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aanyu-ethel%3A6177fc6600138b000b389d6f HTTP/1.1" 200 None
+INFO:root:id: 606d9c30119c4a000f6823ce
+INFO:root:id: 6327729129c478000c5d130b
+INFO:root:id: 63605bf0f721bb001031f00c
+INFO:root:id: 539b43d4a09a67e503000180
+INFO:root:id: 5419615872616947a1320400
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aarnivaara-patrik%3A5419615872616947a1320400 HTTP/1.1" 200 None
+INFO:root:id: 5970c12d139b2111f0d30d46
+INFO:root:id: 5e3974270118d30012f8315f
+INFO:root:id: 60a7f27b96339d000f598c16
+INFO:root:id: 5495ba1a7261693f30c20600
+INFO:root:id: 4ffb7dd711e7220001000cbb
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aaron-curry-and-thomas-housaego%3A4ffb7dd711e7220001000cbb HTTP/1.1" 200 None
+INFO:root:id: 535842f6c9dc246615000165
+INFO:root:id: 573769bc275b243b64000d64
+INFO:root:id: 54747c7272616948e0920300
+INFO:root:id: 55fabac1726169660d000021
+INFO:root:id: 60a52ea62379ca0010da11a8
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aaron-h-levine%3A60a52ea62379ca0010da11a8 HTTP/1.1" 200 None
+INFO:root:id: 551eb6587261692ae31b2300
+INFO:root:id: 53b83db87261692ce1a80000
+INFO:root:id: 53e0f86b7261692d77b90000
+INFO:root:id: 54760acd7261692fb2280200
+INFO:root:id: 5a6b7c0bc9dc242318a3ab73
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aaron-lehman-and-thomas-laprade%3A5a6b7c0bc9dc242318a3ab73 HTTP/1.1" 200 None
+INFO:root:id: 5a6bd45b8b3b8165e4d4e5be
+INFO:root:id: 618308aaa314c4000ddacd60
+INFO:root:id: 612e0c4cb31886000c0c52f1
+INFO:root:id: 5c14014d0db4ec002c5852a6
+INFO:root:id: 5beedc1bc18cc50027a377e4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aaron-richard-e%3A5beedc1bc18cc50027a377e4 HTTP/1.1" 200 None
+INFO:root:id: 600b267a8c1843000d3a9482
+INFO:root:id: 5db073423019160012cf83b2
+INFO:root:id: 5f8fc8f0eb44c10014cf1cdc
+INFO:root:id: 5b6b11c000ffcb002518f077
+INFO:root:id: 5ae246fd8b0c145324019fc1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aarons-george-manuel%3A5ae246fd8b0c145324019fc1 HTTP/1.1" 200 None
+INFO:root:id: 5d1a5819d4ecf6001321300d
+INFO:root:id: 5aa6d51b8b3b8166f51d792f
+INFO:root:id: 4e96f4e13e43de0001004fdd
+INFO:root:id: 5e7a1e373f0a3000100ae40a
+INFO:root:id: 5a512793139b215184bd5b7b
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aaronson-jeffrey%3A5a512793139b215184bd5b7b HTTP/1.1" 200 None
+INFO:root:id: 54521f9d7261691cea0f0300
+INFO:root:id: 5ee881421a8caa0012c24cbf
+INFO:root:id: 5eb119c7a56f56001243b6b3
+INFO:root:id: 4f86f41a24907b0001000d46
+INFO:root:id: 59ef71392a893a43a71673a6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aaseby-blake%3A59ef71392a893a43a71673a6 HTTP/1.1" 200 None
+INFO:root:id: 5908505f139b2142739cd1b7
+INFO:root:id: 56fe3d059c18db4077000843
+INFO:root:id: 60bdabe5391f990014d0a303
+INFO:root:id: 5a80f2b38b0c1407ed0bea56
+INFO:root:id: 598cbfb08b3b810d8283469b
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aatifi%3A598cbfb08b3b810d8283469b HTTP/1.1" 200 None
+INFO:root:id: 59831a0f8b0c14743f51cdb9
+INFO:root:id: 5487183b7261690becf80300
+INFO:root:id: 5a4920138b0c1474ee855ed0
+INFO:root:id: 59eba395c9dc2411797f16e2
+INFO:root:id: 5da4edf026e17d000e7dd9c9
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=aba-ani%3A5da4edf026e17d000e7dd9c9 HTTP/1.1" 200 None
+INFO:root:id: 61190b7e96406f000e79d270
+INFO:root:id: 5ad227718b3b813828fdd292
+INFO:root:id: 4e96f6ae3e43de0001005056
+INFO:root:id: 5762b4fbcd530e65ed000251
+INFO:root:id: 5e383205a26d06000e0436b5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abad-cesc%3A5e383205a26d06000e0436b5 HTTP/1.1" 200 None
+INFO:root:id: 568402165b2fba651b000015
+INFO:root:id: 55f0747b7261693808000030
+INFO:root:id: 622729f24aad05000c945299
+INFO:root:id: 5fe97298bb4b4a269ab0f7c4
+INFO:root:id: 5074b71827ef8d00020002bd
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abad-pacita%3A5074b71827ef8d00020002bd HTTP/1.1" 200 None
+INFO:root:id: 53633cd6c9dc24812c000040
+INFO:root:id: 613fa2ce168df2000d730794
+INFO:root:id: 54dbc1ee7261696c8df71100
+INFO:root:id: 55d34077726169173b000019
+INFO:root:id: 5549d2e27261695f0de20000
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abadian-max%3A5549d2e27261695f0de20000 HTTP/1.1" 200 None
+INFO:root:id: 5dc042e16d3e53000d338200
+INFO:root:id: 5b74668c71c1b433864cddef
+INFO:root:id: 639c0b9810102c000b3ed54e
+INFO:root:id: 61e6c014ca65db000d37b6c9
+INFO:root:id: 63dcb48551b285000c9f1639
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abady-syd%3A63dcb48551b285000c9f1639 HTTP/1.1" 200 None
+INFO:root:id: 56e3250bb202a3657d000852
+INFO:root:id: 61117c1e6a4e5d000cd8913f
+INFO:root:id: 4e96f6cabe2b4e0001002f33
+INFO:root:id: 59dbcae4cb4c274d98ae2f79
+INFO:root:id: 4f0648318501fa10ca000002
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abakanowicz-magdalena%3A4f0648318501fa10ca000002 HTTP/1.1" 200 None
+INFO:root:id: 63be951484ca64000c011e16
+INFO:root:id: 589ef5bacd530e4cb10d1aef
+INFO:root:id: 4df3e547a1772600010057da
+INFO:root:id: 628569e89834b7000c187a11
+INFO:root:id: 626119aa6e69ce000c641903
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abang%3A626119aa6e69ce000c641903 HTTP/1.1" 200 None
+INFO:root:id: 53ccbd7a726169685cce1200
+INFO:root:id: 61654685d9d482000d359795
+INFO:root:id: 5769c533cd530e1af200046b
+INFO:root:id: 62d11c798e3381000b9ba6f8
+INFO:root:id: 56fc182f7622dd657c000eb4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abarca-marco%3A56fc182f7622dd657c000eb4 HTTP/1.1" 200 None
+INFO:root:id: 578968d98b3b812f72001987
+INFO:root:id: 4e96f6e23e43de00010050cb
+INFO:root:id: 62a0e0993a9530000cbd381b
+INFO:root:id: 641d2841f64318000c6025aa
+INFO:root:id: 606e306412e3dc000e31cc61
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abascal-carlos%3A606e306412e3dc000e31cc61 HTTP/1.1" 200 None
+INFO:root:id: 52e1520db202a369db000060
+INFO:root:id: 5519a0427261697df27a1600
+INFO:root:id: 6008fd2c61b334000dbb264f
+INFO:root:id: 59a44302275b247bd6f2f5f9
+INFO:root:id: 511d5a7994326bf7f10005c6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abastenia-st-leger-eberle%3A511d5a7994326bf7f10005c6 HTTP/1.1" 200 None
+INFO:root:id: 61917aee9390a5000b36776e
+INFO:root:id: 5ac61554139b21209965a76c
+INFO:root:id: 506255b93111cc0002000986
+INFO:root:id: 5db1b5b63000c70012baa8a8
+INFO:root:id: 5d0a4f985261246eafd577f9
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abate-giampiero%3A5d0a4f985261246eafd577f9 HTTP/1.1" 200 None
+INFO:root:id: 5ac616a99c18db1d5d1a9420
+INFO:root:id: 63d53f2adb9a6d000ceeef84
+INFO:root:id: 63e40086882d51000cd06345
+INFO:root:id: 608a70699b90480012c48b3b
+INFO:root:id: 6228d0b5fb508a000d1fe4ba
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abavard%3A6228d0b5fb508a000d1fe4ba HTTP/1.1" 200 None
+INFO:root:id: 6066fb7930e7af0012f6b004
+INFO:root:id: 6203abe9643a8a000ddfa4b5
+INFO:root:id: 55811f4472616910340004d2
+INFO:root:id: 5b5b9b9dcdf9dd00236be85b
+INFO:root:id: 6026ddb6cf0adc6e1e32e632
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abayomi-sokenu%3A6026ddb6cf0adc6e1e32e632 HTTP/1.1" 200 None
+INFO:root:id: 55fbbb5972616911870005a5
+INFO:root:id: 5fd4c6a7e9c925000eac7c77
+INFO:root:id: 60018ca67b522c7d1916c673
+INFO:root:id: 62fbd90fc964bc000cf4e743
+INFO:root:id: 582c4ed67622dd65bd000eaa
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbas%3A582c4ed67622dd65bd000eaa HTTP/1.1" 200 None
+INFO:root:id: 5280b8438b3b81b922000164
+INFO:root:id: 5acb6bbf139b214f79b2219b
+INFO:root:id: 537def3c139b21353f0006a6
+INFO:root:id: 50208d56f9f2e70002001409
+INFO:root:id: 5a7376e02a893a5bb6baf122
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbas-omar%3A5a7376e02a893a5bb6baf122 HTTP/1.1" 200 None
+INFO:root:id: 613c8730cb4ed9000cb542b9
+INFO:root:id: 5891f713b202a34ccbef0729
+INFO:root:id: 57a8b1a66d932d66050004db
+INFO:root:id: 6366ffb6ea398e000d3ba5be
+INFO:root:id: 5a6c520da09a67290ead275d
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbasi-abid-a%3A5a6c520da09a67290ead275d HTTP/1.1" 200 None
+INFO:root:id: 58c6a5278b3b810736db93dd
+INFO:root:id: 5f5aceaa0799df000edf7995
+INFO:root:id: 5a6c58552a893a78399c8efb
+INFO:root:id: 59bc4b46cd530e1646e8de85
+INFO:root:id: 5756eebe8b3b81319e00455b
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbasian-sara%3A5756eebe8b3b81319e00455b HTTP/1.1" 200 None
+INFO:root:id: 5ee7ad401a8caa0012c222f4
+INFO:root:id: 5d28ba9709449a000e751210
+INFO:root:id: 53e126267261692d6bf50100
+INFO:root:id: 5f64ab07376eaf000dbeec47
+INFO:root:id: 56b34992cb4c27671900003a
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbate-adalberto%3A56b34992cb4c27671900003a HTTP/1.1" 200 None
+INFO:root:id: 5a6bb59d8b3b8165e4d4d173
+INFO:root:id: 61a5114b8a3f33000dd77c6f
+INFO:root:id: 5ce0df68601fde3269834a07
+INFO:root:id: 4e96f70a6e481d0001002c73
+INFO:root:id: 5d64ec05ad93e30012203605
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbatucci-violaine%3A5d64ec05ad93e30012203605 HTTP/1.1" 200 None
+INFO:root:id: 5ee90f8f4c4717000e367f9e
+INFO:root:id: 5dc1e7428cb49e00124f952b
+INFO:root:id: 53164f4bcd530e1ae90000f5
+INFO:root:id: 556f3dd272616929d0450100
+INFO:root:id: 51e041ac275b2407470001b1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbe-pierre-pacton%3A51e041ac275b2407470001b1 HTTP/1.1" 200 None
+INFO:root:id: 5f4429815b3654000e5be33c
+INFO:root:id: 5711422e8b3b8132fb000280
+INFO:root:id: 60fbfcac257000000d3593c0
+INFO:root:id: 594183852a893a6113f480b9
+INFO:root:id: 5cbf2611c8e30a0ef4244063
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbensetts-rowan%3A5cbf2611c8e30a0ef4244063 HTTP/1.1" 200 None
+INFO:root:id: 59f76fddcd530e4d882d595e
+INFO:root:id: 4f958feaaa701d0001000e3e
+INFO:root:id: 5f747e68bb04b0000d77524c
+INFO:root:id: 5f7480ab5fbe36000f22feef
+INFO:root:id: 5db1b8a74a2c5a0012b61bdc
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbiati-stefano%3A5db1b8a74a2c5a0012b61bdc HTTP/1.1" 200 None
+INFO:root:id: 62bffc1dfaa428000cab02ec
+INFO:root:id: 5f201ac0d65b2b000e09c3cf
+INFO:root:id: 5d233d89eb8079000e1b9e03
+INFO:root:id: 4e96f7596e481d0001002cf3
+INFO:root:id: 63a35ae58ce5bc000c0f43b1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbondanza-bergeron-andreanne%3A63a35ae58ce5bc000c0f43b1 HTTP/1.1" 200 None
+INFO:root:id: 5e340c8d23e47c000e8d830c
+INFO:root:id: 5a591184a09a67208c8dfbfe
+INFO:root:id: 5a0ddf068b3b8166882171ef
+INFO:root:id: 590d05e98b0c142ba88714c2
+INFO:root:id: 4f5f64c13b555230ac000001
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbott-angela%3A4f5f64c13b555230ac000001 HTTP/1.1" 200 None
+INFO:root:id: 4e96f7705554c900010027db
+INFO:root:id: 5ed65418bf2df9000e1a9221
+INFO:root:id: 5b3b4c5d8b0c1413a61638e4
+INFO:root:id: 5fb426c4ba76f30011f56b9f
+INFO:root:id: 56f08fd0cb4c275262000565
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbott-john%3A56f08fd0cb4c275262000565 HTTP/1.1" 200 None
+INFO:root:id: 5660a27d76143f39c300002a
+INFO:root:id: 5b070951cd530e5685724649
+INFO:root:id: 5408a2a272616941e2020100
+INFO:root:id: 611c10a349316d000e5019ea
+INFO:root:id: 4e96f792be2b4e0001002fb1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbott-lemuel-francis%3A4e96f792be2b4e0001002fb1 HTTP/1.1" 200 None
+INFO:root:id: 607556d51dd86f0013cb9153
+INFO:root:id: 4e2ed576477cc70001006f99
+INFO:root:id: 4d8b929c4eb68a1b2c0002e4
+INFO:root:id: 512533b71b3859fd4a00093c
+INFO:root:id: 5ca388c50520c309121fae3e
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbott-paul%3A5ca388c50520c309121fae3e HTTP/1.1" 200 None
+INFO:root:id: 622224463e609c000cb7b9be
+INFO:root:id: 636e5e0e0904cc000bc387e2
+INFO:root:id: 5531530c7261695425300300
+INFO:root:id: 5717f260b202a33868000d7b
+INFO:root:id: 5936b8517622dd3cd15c6a1e
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abbott-waring%3A5936b8517622dd3cd15c6a1e HTTP/1.1" 200 None
+INFO:root:id: 5cb8f2458e5dda1da94b32f5
+INFO:root:id: 605b576963b49c000f78ba25
+INFO:root:id: 4e96f7a9be2b4e0001003049
+INFO:root:id: 554a788f726169251a210800
+INFO:root:id: 5f25ccf9fbd1a4000e192916
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abboud-karen%3A5f25ccf9fbd1a4000e192916 HTTP/1.1" 200 None
+INFO:root:id: 5f3d4581f3507f000d29a661
+INFO:root:id: 5fca32cc9d9ab766e49e0e9c
+INFO:root:id: 4e96f7ca3e43de000100514c
+INFO:root:id: 5fb1dd53ea2d0200117505fb
+INFO:root:id: 63e3156fdfdce3000c0468ab
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abby-cheney%3A63e3156fdfdce3000c0468ab HTTP/1.1" 200 None
+INFO:root:id: 61d5d42e648c23000cc3d422
+INFO:root:id: 53cfc3687261692d4c000000
+INFO:root:id: 5b4673ffb71ce10020f5a92d
+INFO:root:id: 5839d908cd530e645d0002a5
+INFO:root:id: 59c2a919275b247a53b34498
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abd-al-latif-farrukh-ibn%3A59c2a919275b247a53b34498 HTTP/1.1" 200 None
+INFO:root:id: 50378667a48aba00020006e9
+INFO:root:id: 503cfccd5446d80002000918
+INFO:root:id: 5d4464ee6ea4d20011de037c
+INFO:root:id: 560d90b37261690f36000191
+INFO:root:id: 5bacbe36e5dfc60026866270
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abd-el-hamid-zeinab%3A5bacbe36e5dfc60026866270 HTTP/1.1" 200 None
+INFO:root:id: 6416fd7c7137cc000e9c73c7
+INFO:root:id: 62843373a700ab000d27f9d2
+INFO:root:id: 5ddc559b9484560013a28d89
+INFO:root:id: 586e094da09a6755fe001387
+INFO:root:id: 51c5f0118b3b81d1770005a6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdalian-zarouhie%3A51c5f0118b3b81d1770005a6 HTTP/1.1" 200 None
+INFO:root:id: 543ea6c37261693210361100
+INFO:root:id: 5d9c836906f50b0012c426ec
+INFO:root:id: 5b49d42f1b37d51884375a54
+INFO:root:id: 5c36282128aeff60424828f0
+INFO:root:id: 5f421cb3f1fec00012991aeb
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdallah-hamed%3A5f421cb3f1fec00012991aeb HTTP/1.1" 200 None
+INFO:root:id: 5937b95b275b244dd0bee11a
+INFO:root:id: 59c2a7399c18db5297a36e9b
+INFO:root:id: 62988c15ddf619000c8dba62
+INFO:root:id: 553f8acc7261691a92970500
+INFO:root:id: 57cfd6858b3b81713e004a94
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdel-aziz-lubna%3A57cfd6858b3b81713e004a94 HTTP/1.1" 200 None
+INFO:root:id: 6331adfd156ef6000b715df8
+INFO:root:id: 554b86de7261690718ef0c00
+INFO:root:id: 5c5e9f886e742a082e9f5113
+INFO:root:id: 54b8c2c87261693709380100
+INFO:root:id: 58514911275b2438300003d4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdel-hamid-majd%3A58514911275b2438300003d4 HTTP/1.1" 200 None
+INFO:root:id: 5e8b939d22be0a000f59f6e8
+INFO:root:id: 5b0d25bf8b3b811da44c8d7d
+INFO:root:id: 59dcc4709c18db5e5bf1b5cb
+INFO:root:id: 5b9157cd7c135b7512413e32
+INFO:root:id: 5c5fdfb547ab904e2d0d1bce
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdel-mohsen-ali%3A5c5fdfb547ab904e2d0d1bce HTTP/1.1" 200 None
+INFO:root:id: 5d3c69f8ad99ee000e9207d2
+INFO:root:id: 60ba6115764d5b000e7815e0
+INFO:root:id: 5e3000c131bf31000e79cd98
+INFO:root:id: 5d42ffd40cc9f20012247dd3
+INFO:root:id: 5f1be6b6a0e944000ea8423b
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdel-rahman-khalid%3A5f1be6b6a0e944000ea8423b HTTP/1.1" 200 None
+INFO:root:id: 54005d487261695ecef90600
+INFO:root:id: 58d7a319a09a675b962d1ac6
+INFO:root:id: 5e8dc662345e7d000e1b9516
+INFO:root:id: 59de0c7dc9dc24770e3aab2c
+INFO:root:id: 57cffab0139b217cc0004d5e
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdel-zaher-omar%3A57cffab0139b217cc0004d5e HTTP/1.1" 200 None
+INFO:root:id: 5ceb9b7cfa2efd54c8c8d450
+INFO:root:id: 58b48d4c9c18db1359df194f
+INFO:root:id: 56cccee0b8bad404c10000b9
+INFO:root:id: 58220757275b245f4b000b66
+INFO:root:id: 5efc5e90c25592000e54ac97
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdelghafar%3A5efc5e90c25592000e54ac97 HTTP/1.1" 200 None
+INFO:root:id: 634291fa7d4cd0000d2e9187
+INFO:root:id: 6339f057d9aaa9000c8a0a04
+INFO:root:id: 53d8b30672616913c7e40200
+INFO:root:id: 63f89753763aff000cfa0a0e
+INFO:root:id: 63079749ffc20a000bdfce7f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdell-douglas%3A63079749ffc20a000bdfce7f HTTP/1.1" 200 None
+INFO:root:id: 581b68f97622dd65b30021cc
+INFO:root:id: 61bb4f9d925b32000bd890cd
+INFO:root:id: 5a83ecaba09a67714c5cf6e4
+INFO:root:id: 61bb4eeb7db2b5000c278a45
+INFO:root:id: 5ce11d888bbb690fb8572105
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdelmoetamed-ramadan%3A5ce11d888bbb690fb8572105 HTTP/1.1" 200 None
+INFO:root:id: 62a763fc0c7c06000be8095b
+INFO:root:id: 63205d981976bc000e79c8bd
+INFO:root:id: 5b467611adeebc002018ab96
+INFO:root:id: 5c6234d3c997e63ca43a0fc4
+INFO:root:id: 5f44dbd1fd4f6000107001c2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdelrahman-fatma%3A5f44dbd1fd4f6000107001c2 HTTP/1.1" 200 None
+INFO:root:id: 58088f9e7622dd1420000dfc
+INFO:root:id: 5f6a2570f00c1000102a0c9d
+INFO:root:id: 5be1b40643f278002b88ae32
+INFO:root:id: 5e736c1e4b38910012bf29a9
+INFO:root:id: 5f45016e68d8a700115e94dc
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdelsalam-reda%3A5f45016e68d8a700115e94dc HTTP/1.1" 200 None
+INFO:root:id: 4de1769bac12690001006c65
+INFO:root:id: 58500415c9dc2404d400046c
+INFO:root:id: 634083bade05d60124f1620e
+INFO:root:id: 56824aa6a6ca6d650f000130
+INFO:root:id: 572cc7948b3b81233800187e
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdin-dilan%3A572cc7948b3b81233800187e HTTP/1.1" 200 None
+INFO:root:id: 5f7ccd5141cdec00128e893a
+INFO:root:id: 6047df4767476f000dbe081e
+INFO:root:id: 62850f920c9a1a000b69fc0d
+INFO:root:id: 5ef991072ead2e00114c9b31
+INFO:root:id: 619a9f7521a244000ca0344f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdollahi-raha%3A619a9f7521a244000ca0344f HTTP/1.1" 200 None
+INFO:root:id: 633403e5693830000c77cf28
+INFO:root:id: 64242eed3d814a000c7e23e2
+INFO:root:id: 5848758ccd530e644f000427
+INFO:root:id: 60b90591a322cf0013051a4b
+INFO:root:id: 5d023e654e37d600121f4541
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdraman-zhenisbek%3A5d023e654e37d600121f4541 HTTP/1.1" 200 None
+INFO:root:id: 52a73511cd530ea131000285
+INFO:root:id: 5ad7b056a09a6709af422d97
+INFO:root:id: 60586e9c0eb57d000d94f0d0
+INFO:root:id: 5e901efd6dede2001507dfc9
+INFO:root:id: 58dd854bcd530e4d47dfe97f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdul-hadi-sundus%3A58dd854bcd530e4d47dfe97f HTTP/1.1" 200 None
+INFO:root:id: 58b490fa275b2447816aa21c
+INFO:root:id: 61ea33d295bc6e000c815a9f
+INFO:root:id: 628dde96e4730c000c1bdb4a
+INFO:root:id: 5474fbbd72616920b9710a00
+INFO:root:id: 602433ba0f49f70012c76b3f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdul-qadir-zakariya%3A602433ba0f49f70012c76b3f HTTP/1.1" 200 None
+INFO:root:id: 5cf066b57b84d6000e85fd7f
+INFO:root:id: 5c36346ed751f5002c641258
+INFO:root:id: 61b6244f7de430000c919ade
+INFO:root:id: 5b507dadb05be01ac0c4ea86
+INFO:root:id: 57606d368b3b8176360005d7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdulaziz-mustafah%3A57606d368b3b8176360005d7 HTTP/1.1" 200 None
+INFO:root:id: 5642da70275b2465df00048c
+INFO:root:id: 626eb21b794ea0000e963254
+INFO:root:id: 617ad783ebcd70000cb37c74
+INFO:root:id: 5f4a3508aaca37000d6c517e
+INFO:root:id: 5db2dd7a52b09f000e77a202
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdulla-behjat-omer%3A5db2dd7a52b09f000e77a202 HTTP/1.1" 200 None
+INFO:root:id: 5994677c8b3b817d261ee41b
+INFO:root:id: 5bef0efbbdc24e38fbcb0c9f
+INFO:root:id: 546edede7261691ea2710400
+INFO:root:id: 5b6233ad46c7780022a8415e
+INFO:root:id: 588dc5b4a09a6719eb0005d1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.artsy.net:443
+DEBUG:urllib3.connectionpool:https://api.artsy.net:443 "GET /api/artists?cursor=abdullah-alaa%3A588dc5b4a09a6719eb0005d1 HTTP/1.1" 200 None
+INFO:root:id: 5e736e1defa47000124823d5
+INFO:root:id: 5d2c943b477c26000ec356af
+INFO:root:id: 61479c52e6802d000e36edd1
+INFO:root:id: 614221da86bc21000cc3ff63
+INFO:root:id: 55d337b272616967c6000002
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 23215
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 23214
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 23215
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 21872
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 17701
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 21872
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 34578
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 34591
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 34579
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 22512
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 29612
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 29612
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 37875
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 37883
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 37875
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 34187
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 34204
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 34189
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 28995
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 29004
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 28997
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 20756
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 20756
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 20752
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 32743
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 32743
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 32748
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 35215
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 35231
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 35231
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 37135
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 37135
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 37131
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=1 HTTP/1.1" 200 35065
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=2 HTTP/1.1" 200 35064
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false&pg=3 HTTP/1.1" 200 35064
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 23215
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 21876
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 34585
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 29613
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 37890
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 34200
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 29000
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 20752
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 32749
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 35222
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 37127
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 25511
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50424
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 18351
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 21875
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 34591
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 22512
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 34200
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 28998
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 20752
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 32750
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 35222
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 37127
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 35072
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50425
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 23212
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 17703
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 25427
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 29609
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 37885
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 34200
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 28998
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 20752
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 32750
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 35222
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 37127
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 35072
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50425
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=1&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 23215
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=2&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 21872
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=3&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 34591
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=4&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 29613
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=5&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 37890
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=6&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 34189
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=7&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 28998
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=8&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 20763
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=9&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 32748
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=10&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 35231
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=11&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 27160
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.christies.com:80
+DEBUG:urllib3.connectionpool:http://www.christies.com:80 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /results/?month=12&year=2022&locations=&scids=&action=paging&initialpageload=false HTTP/1.1" 200 35040
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50422
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 37345
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50429
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50429
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50432
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50432
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50432
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50432
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50432
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50432
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50432
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.christies.com:443
+DEBUG:urllib3.connectionpool:https://www.christies.com:443 "GET /en/auction/important-americana-29081/browse-lots?loadall=true HTTP/1.1" 200 50432
