@@ -118,13 +118,13 @@ def get_all_artworks_info(bucket_name, links_gcs_file_name, info_gcs_file_name, 
     links_local_file_path = links_gcs_file_name
     info_local_file_path = info_gcs_file_name
 
-    # If some artworks have already been stored, retrieve the existing info_gcs_file_name file
-    if gcp.file_exists(bucket_name, info_gcs_file_name):
-        gcp.retrieve_file_from_gcs(bucket_name, info_gcs_file_name, info_local_file_path)
-        existing_artworks_info = csv_handle.csv_to_dict_list(info_local_file_path)
-    else:
+    # # If some artworks have already been stored, retrieve the existing info_gcs_file_name file
+    # if gcp.file_exists(bucket_name, info_gcs_file_name):
+    #     gcp.retrieve_file_from_gcs(bucket_name, info_gcs_file_name, info_local_file_path)
+    #     existing_artworks_info = csv_handle.csv_to_dict_list(info_local_file_path)
+    # else:
         # If no artworks have been stored yet, create an empty list
-        existing_artworks_info = []
+    existing_artworks_info = []
 
     # Retrieve the .txt file with links
     gcp.retrieve_file_from_gcs(bucket_name, links_gcs_file_name, links_local_file_path)
@@ -133,7 +133,7 @@ def get_all_artworks_info(bucket_name, links_gcs_file_name, info_gcs_file_name, 
 
     artworks_info = []
     failed_artworks = []
-    batch_size = 500  # Number of artworks to store in each batch
+    batch_size = 200  # Number of artworks to store in each batch
 
     for url in urls:
         try:
@@ -141,7 +141,7 @@ def get_all_artworks_info(bucket_name, links_gcs_file_name, info_gcs_file_name, 
             artworks_info.append(artwork_info)
 
             if len(artworks_info) % batch_size == 0:
-                store_artworks_info_csv_in_gcs(artworks_info + existing_artworks_info, bucket_name, info_gcs_file_name, info_local_file_path)
+                store_artworks_info_csv_in_gcs(artworks_info + existing_artworks_info, bucket_name, info_gcs_file_name)
                 logging.info('Batch stored!')
 
         except Exception as e:
@@ -150,7 +150,7 @@ def get_all_artworks_info(bucket_name, links_gcs_file_name, info_gcs_file_name, 
 
     # Store any remaining artworks_info after the loop ends
     if artworks_info:
-        store_artworks_info_csv_in_gcs(artworks_info + existing_artworks_info, bucket_name, info_gcs_file_name, info_local_file_path)
+        store_artworks_info_csv_in_gcs(artworks_info + existing_artworks_info, bucket_name, info_gcs_file_name)
         logging.info('Remaining artworks stored!')
 
     # Store the failed_artworks_urls in GCS
