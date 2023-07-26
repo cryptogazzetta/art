@@ -118,13 +118,13 @@ def get_all_artworks_info(bucket_name, links_gcs_file_name, info_gcs_file_name, 
     links_local_file_path = links_gcs_file_name
     info_local_file_path = info_gcs_file_name
 
-    # # If some artworks have already been stored, retrieve the existing info_gcs_file_name file
-    # if gcp.file_exists(bucket_name, info_gcs_file_name):
-    #     gcp.retrieve_file_from_gcs(bucket_name, info_gcs_file_name, info_local_file_path)
-    #     existing_artworks_info = csv_handle.csv_to_dict_list(info_local_file_path)
-    # else:
+    # If some artworks have already been stored, retrieve the existing info_gcs_file_name file
+    if gcp.file_exists(bucket_name, info_gcs_file_name):
+        gcp.retrieve_file_from_gcs(bucket_name, info_gcs_file_name, info_local_file_path)
+        existing_artworks_info = csv_handle.csv_to_dict_list(info_local_file_path)
+    else:
         # If no artworks have been stored yet, create an empty list
-    existing_artworks_info = []
+      existing_artworks_info = []
 
     # Retrieve the .txt file with links
     gcp.retrieve_file_from_gcs(bucket_name, links_gcs_file_name, links_local_file_path)
