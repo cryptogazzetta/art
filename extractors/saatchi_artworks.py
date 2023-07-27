@@ -133,7 +133,7 @@ def get_all_artworks_info(bucket_name, links_gcs_file_name, info_gcs_file_name, 
 
     artworks_info = []
     failed_artworks = []
-    batch_size = 200  # Number of artworks to store in each batch
+    batch_size = 500  # Number of artworks to store in each batch
 
     for url in urls:
         try:
@@ -142,6 +142,7 @@ def get_all_artworks_info(bucket_name, links_gcs_file_name, info_gcs_file_name, 
 
             if len(artworks_info) % batch_size == 0:
                 store_artworks_info_csv_in_gcs(artworks_info + existing_artworks_info, bucket_name, info_gcs_file_name)
+                store_failed_urls_in_gcs(bucket_name, failed_urls_gcs_file_name, failed_artworks)
                 logging.info('Batch stored!')
 
         except Exception as e:
